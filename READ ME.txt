@@ -1,0 +1,6 @@
+The project contains 3 modules
+  1. dancing_links.py => contains 3 classes for implementing the dancing link
+  2. exact_cover.py => contains the backtracking algorithm for solving the exact cover problem
+  3. test_exact_cover.py contains the tests for all the above 2 modules
+
+USAGE: $ python test_exact_cover.py
